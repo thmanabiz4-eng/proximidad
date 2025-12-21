@@ -1,0 +1,1920 @@
+[
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"FLORESTA",
+    "SUB CIRCUITO":"FLORESTA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"7 LAGOS",
+    "SUB CIRCUITO":"7 LAGOS 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"MALVINAS SUR",
+    "SUB CIRCUITO":"MALVINAS SUR 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"MALVINAS NORTE",
+    "SUB CIRCUITO":"MALVINAS NORTE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA NORTE",
+    "SUB CIRCUITO":"TRINITARIA NORTE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA SUR",
+    "SUB CIRCUITO":"TRINITARIA SUR 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"CHILE",
+    "SUB CIRCUITO":"CHILE 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VICTORIA",
+    "SUB CIRCUITO":"VICTORIA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"9 DE OCTUBRE",
+    "SUB CIRCUITO":"9 DE OCTUBRE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"GARAY",
+    "SUB CIRCUITO":"GARAY 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"ANTEPARA",
+    "SUB CIRCUITO":"ANTEPARA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"CRISTO DEL CONSUELO",
+    "SUB CIRCUITO":"CRISTO DEL CONSUELO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CISNE",
+    "SUB CIRCUITO":"CISNE 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CHALA",
+    "SUB CIRCUITO":"CHALA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SALINAS",
+    "SUB CIRCUITO":"SALINAS 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"PORTETE",
+    "SUB CIRCUITO":"PORTETE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"BATALLON DEL SUBURBIO",
+    "SUB CIRCUITO":"BATALLON DEL SUBURBIO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SUBURBIO",
+    "SUB CIRCUITO":"SUBURBIO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"GUAYACANES",
+    "SUB CIRCUITO":"GUAYACANES 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"BELLLAVISTA",
+    "SUB CIRCUITO":"BELLAVISTA 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"KENNEDY DMG",
+    "SUB CIRCUITO":"KENNEDY 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"TENGUEL",
+    "SUB CIRCUITO":"TENGUEL 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"ORQUIDEAS",
+    "SUB CIRCUITO":"ORQUIDEAS 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"CEIBOS",
+    "CIRCUITO":"LOS CEIBOS",
+    "SUB CIRCUITO":"LOS CEIBOS 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PROGRESO",
+    "CIRCUITO":"MORRO",
+    "SUB CIRCUITO":"MORRO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PROGRESO",
+    "CIRCUITO":"POSORJA",
+    "SUB CIRCUITO":"POSORJA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"CENTRO",
+    "SUB CIRCUITO":"CENTRO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"ARBOLITO",
+    "SUB CIRCUITO":"ARBOLITO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"LIGA CANTONAL",
+    "SUB CIRCUITO":"LIGA CANTONAL 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"LA HERRADURA",
+    "SUB CIRCUITO":"LA HERRADURA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"SAMANES",
+    "SUB CIRCUITO":"SAMANES 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"JUAN MONTALVO",
+    "SUB CIRCUITO":"JUAN MONTALVO 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"FLORIDA",
+    "SUB CIRCUITO":"FLORIDA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MAPASINGUE",
+    "SUB CIRCUITO":"MAPASINGUE 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"MONTE BELLO",
+    "SUB CIRCUITO":"MONTE BELLO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"BASTION POPULAR SUR",
+    "SUB CIRCUITO":"BASTION POPULAR SUR 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"BASTION POPULAR NORTE",
+    "SUB CIRCUITO":"BASTION POPULAR NORTE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"MUCHO LOTE",
+    "SUB CIRCUITO":"MUCHO LOTE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"PASCUALES",
+    "SUB CIRCUITO":"PASCUALES 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"PUENTE LUCIA",
+    "SUB CIRCUITO":"PUENTE LUCIA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"NUEVA PROSPERINA",
+    "SUB CIRCUITO":"NUEVA PROSPERINA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FORTIN",
+    "SUB CIRCUITO":"FORTIN 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"PARAISO LA FLOR",
+    "SUB CIRCUITO":"PARAISO LA FLOR 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"NUEVO GUAYAQUIL",
+    "SUB CIRCUITO":"NUEVO GUAYAQUIL 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"CEIBOS",
+    "CIRCUITO":"CHONGON",
+    "SUB CIRCUITO":"CHONGON 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SAMBORONDON",
+    "CIRCUITO":"TARIFA",
+    "SUB CIRCUITO":"TARIFA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"DIVINO NIÑO",
+    "SUB CIRCUITO":"DIVINO NIÑO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ALBORADA",
+    "SUB CIRCUITO":"ALBORADA 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"SAN FRANCISCO",
+    "SUB CIRCUITO":"SAN FRANCISCO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"URDESA",
+    "SUB CIRCUITO":"URDESA 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"CEIBOS",
+    "CIRCUITO":"PUERTO HONDO",
+    "SUB CIRCUITO":"PUERTO HONDO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"PANORAMA",
+    "SUB CIRCUITO":"PANORAMA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PROGRESO",
+    "CIRCUITO":"PROGRESO",
+    "SUB CIRCUITO":"PROGRESO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"GUASMO",
+    "SUB CIRCUITO":"GUASMO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"UNION DE BANANEROS",
+    "SUB CIRCUITO":"UNION DE BANANEROS 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"CENTENARIO",
+    "SUB CIRCUITO":"CENTENARIO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"ESTEROS",
+    "SUB CIRCUITO":"ESTEROS 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VENEZUELA",
+    "SUB CIRCUITO":"VENEZUELA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"GUASMO",
+    "SUB CIRCUITO":"GUASMO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"GUASMO",
+    "SUB CIRCUITO":"GUASMO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"GUASMO",
+    "SUB CIRCUITO":"GUASMO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"UNION DE BANANEROS",
+    "SUB CIRCUITO":"UNION DE BANANEROS 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"UNION DE BANANEROS",
+    "SUB CIRCUITO":"UNION DE BANANEROS 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"FLORESTA",
+    "SUB CIRCUITO":"FLORESTA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"FLORESTA",
+    "SUB CIRCUITO":"FLORESTA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"7 LAGOS",
+    "SUB CIRCUITO":"7 LAGOS 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"7 LAGOS",
+    "SUB CIRCUITO":"7 LAGOS 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"7 LAGOS",
+    "SUB CIRCUITO":"7 LAGOS 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"CENTENARIO",
+    "SUB CIRCUITO":"CENTENARIO 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"CENTENARIO",
+    "SUB CIRCUITO":"CENTENARIO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"CENTENARIO",
+    "SUB CIRCUITO":"CENTENARIO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"CENTENARIO",
+    "SUB CIRCUITO":"CENTENARIO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"ESTEROS",
+    "SUB CIRCUITO":"ESTEROS 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"ESTEROS",
+    "SUB CIRCUITO":"ESTEROS 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"ESTEROS",
+    "SUB CIRCUITO":"ESTEROS 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"MALVINAS SUR",
+    "SUB CIRCUITO":"MALVINAS SUR 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"MALVINAS SUR",
+    "SUB CIRCUITO":"MALVINAS SUR 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"MALVINAS NORTE",
+    "SUB CIRCUITO":"MALVINAS NORTE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"MALVINAS NORTE",
+    "SUB CIRCUITO":"MALVINAS NORTE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA NORTE",
+    "SUB CIRCUITO":"TRINITARIA NORTE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA NORTE",
+    "SUB CIRCUITO":"TRINITARIA NORTE 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA NORTE",
+    "SUB CIRCUITO":"TRINITARIA NORTE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA SUR",
+    "SUB CIRCUITO":"TRINITARIA SUR 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA SUR",
+    "SUB CIRCUITO":"TRINITARIA SUR 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA SUR",
+    "SUB CIRCUITO":"TRINITARIA SUR 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"ESTEROS",
+    "CIRCUITO":"TRINITARIA SUR",
+    "SUB CIRCUITO":"TRINITARIA SUR 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"CHILE",
+    "SUB CIRCUITO":"CHILE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"CHILE",
+    "SUB CIRCUITO":"CHILE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"CHILE",
+    "SUB CIRCUITO":"CHILE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VICTORIA",
+    "SUB CIRCUITO":"VICTORIA 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"9 DE OCTUBRE",
+    "SUB CIRCUITO":"9 DE OCTUBRE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VICTORIA",
+    "SUB CIRCUITO":"VICTORIA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VICTORIA",
+    "SUB CIRCUITO":"VICTORIA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VICTORIA",
+    "SUB CIRCUITO":"VICTORIA 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"9 DE OCTUBRE",
+    "SUB CIRCUITO":"9 DE OCTUBRE 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"9 DE OCTUBRE",
+    "SUB CIRCUITO":"9 DE OCTUBRE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"9 DE OCTUBRE",
+    "SUB CIRCUITO":"9 DE OCTUBRE 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"9 DE OCTUBRE",
+    "SUB CIRCUITO":"9 DE OCTUBRE 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"GARAY",
+    "SUB CIRCUITO":"GARAY 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"GARAY",
+    "SUB CIRCUITO":"GARAY 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"GARAY",
+    "SUB CIRCUITO":"GARAY 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VENEZUELA",
+    "SUB CIRCUITO":"VENEZUELA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"VENEZUELA",
+    "SUB CIRCUITO":"VENEZUELA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"ANTEPARA",
+    "SUB CIRCUITO":"ANTEPARA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"CRISTO DEL CONSUELO",
+    "SUB CIRCUITO":"CRISTO DEL CONSUELO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"ANTEPARA",
+    "SUB CIRCUITO":"ANTEPARA  3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"9 DE OCTUBRE",
+    "CIRCUITO":"CRISTO DEL CONSUELO",
+    "SUB CIRCUITO":"CRISTO DEL CONSUELO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CISNE",
+    "SUB CIRCUITO":"CISNE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CISNE",
+    "SUB CIRCUITO":"CISNE 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CISNE",
+    "SUB CIRCUITO":"CISNE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CISNE",
+    "SUB CIRCUITO":"CISNE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CHALA",
+    "SUB CIRCUITO":"CHALA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"CHALA",
+    "SUB CIRCUITO":"CHALA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SALINAS",
+    "SUB CIRCUITO":"SALINAS 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SALINAS",
+    "SUB CIRCUITO":"SALINAS 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SALINAS",
+    "SUB CIRCUITO":"SALINAS 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"PORTETE",
+    "SUB CIRCUITO":"PORTETE 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"PORTETE",
+    "SUB CIRCUITO":"PORTETE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"PORTETE",
+    "SUB CIRCUITO":"PORTETE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"BATALLON DEL SUBURBIO",
+    "SUB CIRCUITO":"BATALLON DEL SUBURBIO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"BATALLON DEL SUBURBIO",
+    "SUB CIRCUITO":"BATALLON DEL SUBURBIO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"BATALLON DEL SUBURBIO",
+    "SUB CIRCUITO":"BATALLON DEL SUBURBIO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SUBURBIO",
+    "SUB CIRCUITO":"SUBURBIO 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SUBURBIO",
+    "SUB CIRCUITO":"SUBURBIO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SUBURBIO",
+    "SUB CIRCUITO":"SUBURBIO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PORTETE",
+    "CIRCUITO":"SUBURBIO",
+    "SUB CIRCUITO":"SUBURBIO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"KENNEDY DMG",
+    "SUB CIRCUITO":"KENNEDY 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"KENNEDY DMG",
+    "SUB CIRCUITO":"KENNEDY 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"KENNEDY DMG",
+    "SUB CIRCUITO":"KENNEDY 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"KENNEDY DMG",
+    "SUB CIRCUITO":"KENNEDY 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 8"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ATARAZANA",
+    "SUB CIRCUITO":"ATARAZANA 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"SAUCES",
+    "SUB CIRCUITO":"SAUCES 8"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"GUAYACANES",
+    "SUB CIRCUITO":"GUAYACANES 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"GUAYACANES",
+    "SUB CIRCUITO":"GUAYACANES 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"GUAYACANES",
+    "SUB CIRCUITO":"GUAYACANES 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"GUAYACANES",
+    "SUB CIRCUITO":"GUAYACANES 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"GUAYACANES",
+    "SUB CIRCUITO":"GUAYACANES 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ALBORADA",
+    "SUB CIRCUITO":"ALBORADA 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ALBORADA",
+    "SUB CIRCUITO":"ALBORADA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ALBORADA",
+    "SUB CIRCUITO":"ALBORADA 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ALBORADA",
+    "SUB CIRCUITO":"ALBORADA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ALBORADA",
+    "SUB CIRCUITO":"ALBORADA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"ALBORADA",
+    "SUB CIRCUITO":"ALBORADA 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"URDESA",
+    "SUB CIRCUITO":"URDESA 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"URDESA",
+    "SUB CIRCUITO":"URDESA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"URDESA",
+    "SUB CIRCUITO":"URDESA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"URDESA",
+    "SUB CIRCUITO":"URDESA 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"URDESA",
+    "SUB CIRCUITO":"URDESA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"MODELO",
+    "CIRCUITO":"URDESA",
+    "SUB CIRCUITO":"URDESA 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"BELLLAVISTA",
+    "SUB CIRCUITO":"BELLAVISTA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"BELLLAVISTA",
+    "SUB CIRCUITO":"BELLAVISTA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"BELLLAVISTA",
+    "SUB CIRCUITO":"BELLAVISTA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"BELLLAVISTA",
+    "SUB CIRCUITO":"BELLAVISTA 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"BELLLAVISTA",
+    "SUB CIRCUITO":"BELLAVISTA 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 8"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"JUAN MONTALVO",
+    "SUB CIRCUITO":"JUAN MONTALVO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"SAMANES",
+    "SUB CIRCUITO":"SAMANES 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"SAMANES",
+    "SUB CIRCUITO":"SAMANES 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"JUAN MONTALVO",
+    "SUB CIRCUITO":"JUAN MONTALVO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"JUAN MONTALVO",
+    "SUB CIRCUITO":"JUAN MONTALVO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"MONTE BELLO",
+    "SUB CIRCUITO":"MONTE BELLO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"JUAN MONTALVO",
+    "SUB CIRCUITO":"JUAN MONTALVO 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"JUAN MONTALVO",
+    "SUB CIRCUITO":"JUAN MONTALVO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"FLORIDA",
+    "SUB CIRCUITO":"FLORIDA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"FLORIDA",
+    "SUB CIRCUITO":"FLORIDA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MAPASINGUE",
+    "SUB CIRCUITO":"MAPASINGUE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MAPASINGUE",
+    "SUB CIRCUITO":"MAPASINGUE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MAPASINGUE",
+    "SUB CIRCUITO":"MAPASINGUE 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MAPASINGUE",
+    "SUB CIRCUITO":"MAPASINGUE 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"MONTE BELLO",
+    "SUB CIRCUITO":"MONTE BELLO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"MONTE BELLO",
+    "SUB CIRCUITO":"MONTE BELLO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"BASTION POPULAR SUR",
+    "SUB CIRCUITO":"BASTION POPULAR SUR 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"BASTION POPULAR SUR",
+    "SUB CIRCUITO":"BASTION POPULAR SUR 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"BASTION POPULAR NORTE",
+    "SUB CIRCUITO":"BASTION POPULAR NORTE 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"BASTION POPULAR NORTE",
+    "SUB CIRCUITO":"BASTION POPULAR NORTE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"MUCHO LOTE",
+    "SUB CIRCUITO":"MUCHO LOTE 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"ORQUIDEAS",
+    "SUB CIRCUITO":"ORQUIDEAS 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"ORQUIDEAS",
+    "SUB CIRCUITO":"ORQUIDEAS 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"ORQUIDEAS",
+    "SUB CIRCUITO":"ORQUIDEAS 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"ORQUIDEAS",
+    "SUB CIRCUITO":"ORQUIDEAS 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"ORQUIDEAS",
+    "SUB CIRCUITO":"ORQUIDEAS 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"ORQUIDEAS",
+    "SUB CIRCUITO":"ORQUIDEAS 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"PASCUALES",
+    "SUB CIRCUITO":"PASCUALES 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"PASCUALES",
+    "SUB CIRCUITO":"PASCUALES 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"PASCUALES",
+    "SUB CIRCUITO":"PASCUALES 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"SAN FRANCISCO",
+    "SUB CIRCUITO":"SAN FRANCISCO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"SAN FRANCISCO",
+    "SUB CIRCUITO":"SAN FRANCISCO 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"SAN FRANCISCO",
+    "SUB CIRCUITO":"SAN FRANCISCO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"SAN FRANCISCO",
+    "SUB CIRCUITO":"SAN FRANCISCO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"PASCUALES",
+    "CIRCUITO":"PUENTE LUCIA",
+    "SUB CIRCUITO":"PUENTE LUCIA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"NUEVA PROSPERINA",
+    "SUB CIRCUITO":"NUEVA PROSPERINA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"NUEVA PROSPERINA",
+    "SUB CIRCUITO":"NUEVA PROSPERINA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FORTIN",
+    "SUB CIRCUITO":"FORTIN 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FORTIN",
+    "SUB CIRCUITO":"FORTIN 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FORTIN",
+    "SUB CIRCUITO":"FORTIN 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"PARAISO LA FLOR",
+    "SUB CIRCUITO":"PARAISO LA FLOR 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"PARAISO LA FLOR",
+    "SUB CIRCUITO":"PARAISO LA FLOR 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"PARAISO LA FLOR",
+    "SUB CIRCUITO":"PARAISO LA FLOR 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 8"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 9"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"FLOR DE BASTION",
+    "SUB CIRCUITO":"FLOR DE BASTION 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 7"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"MONTE SINAI",
+    "SUB CIRCUITO":"MONTE SINAI 8"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"NUEVO GUAYAQUIL",
+    "SUB CIRCUITO":"NUEVO GUAYAQUIL 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"NUEVO GUAYAQUIL",
+    "SUB CIRCUITO":"NUEVO GUAYAQUIL 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"NUEVA PROSPERINA",
+    "CIRCUITO":"NUEVO GUAYAQUIL",
+    "SUB CIRCUITO":"NUEVO GUAYAQUIL 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"CEIBOS",
+    "CIRCUITO":"LOS CEIBOS",
+    "SUB CIRCUITO":"LOS CEIBOS 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"CEIBOS",
+    "CIRCUITO":"LOS CEIBOS",
+    "SUB CIRCUITO":"LOS CEIBOS 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"CEIBOS",
+    "CIRCUITO":"PUERTO HONDO",
+    "SUB CIRCUITO":"PUERTO HONDO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"CEIBOS",
+    "CIRCUITO":"PUERTO HONDO",
+    "SUB CIRCUITO":"PUERTO HONDO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SAMBORONDON",
+    "CIRCUITO":"SAMBORONDON",
+    "SUB CIRCUITO":"SAMBORONDON 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SAMBORONDON",
+    "CIRCUITO":"SAMBORONDON",
+    "SUB CIRCUITO":"SAMBORONDON 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SAMBORONDON",
+    "CIRCUITO":"SAMBORONDON",
+    "SUB CIRCUITO":"SAMBORONDON 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SAMBORONDON",
+    "CIRCUITO":"SAMBORONDON",
+    "SUB CIRCUITO":"SAMBORONDON 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"ABEL GILBERT",
+    "SUB CIRCUITO":"ABEL GILBERT 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"ABEL GILBERT",
+    "SUB CIRCUITO":"ABEL GILBERT 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"ABEL GILBERT",
+    "SUB CIRCUITO":"ABEL GILBERT 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"ABEL GILBERT",
+    "SUB CIRCUITO":"ABEL GILBERT 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"CENTRO",
+    "SUB CIRCUITO":"CENTRO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"CENTRO",
+    "SUB CIRCUITO":"CENTRO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"CENTRO",
+    "SUB CIRCUITO":"CENTRO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"PANORAMA",
+    "SUB CIRCUITO":"PANORAMA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 6"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 8"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"RECREO",
+    "SUB CIRCUITO":"RECREO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"DIVINO NIÑO",
+    "SUB CIRCUITO":"DIVINO NIÑO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"DIVINO NIÑO",
+    "SUB CIRCUITO":"DIVINO NIÑO 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"DIVINO NIÑO",
+    "SUB CIRCUITO":"DIVINO NIÑO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"ARBOLITO",
+    "SUB CIRCUITO":"ARBOLITO 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"ARBOLITO",
+    "SUB CIRCUITO":"ARBOLITO 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"DURAN",
+    "CIRCUITO":"LIGA CANTONAL",
+    "SUB CIRCUITO":"LIGA CANTONAL 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"PUNA",
+    "SUB CIRCUITO":"PUNA 1"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"PUNA",
+    "SUB CIRCUITO":"PUNA 2"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"PUNA",
+    "SUB CIRCUITO":"PUNA 4"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SUR",
+    "CIRCUITO":"PUNA",
+    "SUB CIRCUITO":"PUNA 3"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"SAMBORONDON",
+    "CIRCUITO":"SAMBORONDON",
+    "SUB CIRCUITO":"SAMBORONDON 5"
+  },
+  {
+    "ZONA":"ZONA 8",
+    "SUBZONA":"DMG",
+    "DISTRITO":"FLORIDA",
+    "CIRCUITO":"MARTHA DE ROLDOS",
+    "SUB CIRCUITO":"MARTHA DE ROLDOS 6"
+  }
+]
