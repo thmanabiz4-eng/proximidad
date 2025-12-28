@@ -22669,5 +22669,14 @@
     "subcircuito": "POSORJA 1",
     "id": "MELISMARKET-(VÍA-PRINCIPAL-GUTIÉRREZ-CHAGUAY)-Z8-D-P-P",
     "nombre_punto": "MELISMARKET (vía principal Gutiérrez chaguay)"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PORTETE",
+    "circuito": "CISNE",
+    "subcircuito": "CISNE 4",
+    "id": "BAZAR-DE-PIÑATAS-Z8-D-P-C",
+    "nombre_punto": "BAZAR DE PIÑATAS"
   }
 ]
