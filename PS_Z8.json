@@ -22687,5 +22687,14 @@
     "subcircuito": "FLOR DE BASTION 1",
     "id": "CENTRO-LOGÍSTICO-DOLE-Z8-D-N-F",
     "nombre_punto": "Centro Logístico Dole"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "NUEVA PROSPERINA",
+    "subcircuito": "NUEVA PROSPERINA 2",
+    "id": "COBERTURA-TOTAL-Z8-D-N-N",
+    "nombre_punto": "COBERTURA TOTAL"
   }
 ]
