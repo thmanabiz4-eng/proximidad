@@ -22714,5 +22714,14 @@
     "subcircuito": "ORQUIDEAS 1",
     "id": "TIA-GO-VERGELES-MONUMENTAL-Z8-D-P-O",
     "nombre_punto": "TIA GO VERGELES MONUMENTAL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 7",
+    "id": "TIA-GO-JARDIN-BOTÁNICO-Z8-D-P-O",
+    "nombre_punto": "TIA GO JARDIN BOTÁNICO"
   }
 ]
