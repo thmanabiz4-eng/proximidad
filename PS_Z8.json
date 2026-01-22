@@ -22696,5 +22696,14 @@
     "subcircuito": "NUEVA PROSPERINA 2",
     "id": "COBERTURA-TOTAL-Z8-D-N-N",
     "nombre_punto": "COBERTURA TOTAL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PASCUALES",
+    "subcircuito": "PASCUALES 2",
+    "id": "TIA-GO-5-ESQUINAS-Z8-D-P-P",
+    "nombre_punto": "TIA GO 5 ESQUINAS"
   }
 ]
