@@ -22705,5 +22705,14 @@
     "subcircuito": "PASCUALES 2",
     "id": "TIA-GO-5-ESQUINAS-Z8-D-P-P",
     "nombre_punto": "TIA GO 5 ESQUINAS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 1",
+    "id": "TIA-GO-VERGELES-MONUMENTAL-Z8-D-P-O",
+    "nombre_punto": "TIA GO VERGELES MONUMENTAL"
   }
 ]
