@@ -22750,5 +22750,14 @@
     "subcircuito": "MONTE BELLO 2",
     "id": "HANASKA-Z8-D-P-M",
     "nombre_punto": "HANASKA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "MONTE BELLO",
+    "subcircuito": "MONTE BELLO 3",
+    "id": "TRANSPORTES-ATLAS-Z8-D-P-M",
+    "nombre_punto": "TRANSPORTES ATLAS"
   }
 ]
