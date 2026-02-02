@@ -22759,5 +22759,14 @@
     "subcircuito": "MONTE BELLO 3",
     "id": "TRANSPORTES-ATLAS-Z8-D-P-M",
     "nombre_punto": "TRANSPORTES ATLAS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "MONTE BELLO",
+    "subcircuito": "MONTE BELLO 4",
+    "id": "ASADERO-MONTEBELLO-Z8-D-P-M",
+    "nombre_punto": "ASADERO MONTEBELLO"
   }
 ]
