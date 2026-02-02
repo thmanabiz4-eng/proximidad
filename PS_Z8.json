@@ -22732,5 +22732,14 @@
     "subcircuito": "MONTE BELLO 3",
     "id": "REGISTRO-CIVIL-PECA-Z8-D-P-M",
     "nombre_punto": "REGISTRO CIVIL PECA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "MONTE BELLO",
+    "subcircuito": "MONTE BELLO 2",
+    "id": "CASA-DEL-RULIMAN-Z8-D-P-M",
+    "nombre_punto": "CASA DEL RULIMAN"
   }
 ]
