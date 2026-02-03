@@ -22768,5 +22768,14 @@
     "subcircuito": "MONTE BELLO 4",
     "id": "ASADERO-MONTEBELLO-Z8-D-P-M",
     "nombre_punto": "ASADERO MONTEBELLO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PASCUALES",
+    "subcircuito": "PASCUALES 2",
+    "id": "FARMACIA-CRUZ-AZUL-PASCUALES-Z8-D-P-P",
+    "nombre_punto": "FARMACIA CRUZ AZUL PASCUALES"
   }
 ]
