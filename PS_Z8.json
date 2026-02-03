@@ -22802,15 +22802,6 @@
     "distrito": "PASCUALES",
     "circuito": "PASCUALES",
     "subcircuito": "PASCUALES 3",
-    "id": "FERRETERÍA-AMARILLA-Z8-D-P-P",
-    "nombre_punto": "FERRETERÍA AMARILLA"
-  },
-  {
-    "zona": "ZONA 8",
-    "subzona": "DMG",
-    "distrito": "PASCUALES",
-    "circuito": "PASCUALES",
-    "subcircuito": "PASCUALES 3",
     "id": "TIENDA-VIDRIOS-AZULES-Z8-D-P-P",
     "nombre_punto": "TIENDA VIDRIOS AZULES"
   },
@@ -22831,5 +22822,32 @@
     "subcircuito": "BASTION POPULAR NORTE 1",
     "id": "PANADERIA-SUPREMA-Z8-D-P-B",
     "nombre_punto": "PANADERIA SUPREMA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "POSORJA",
+    "subcircuito": "POSORJA 1",
+    "id": "CENTRO-DE-DESARROLLO-INFANTIL-DIVINO-NIÑO-Z8-D-P-P",
+    "nombre_punto": "Centro De Desarrollo Infantil Divino Niño"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PUENTE LUCIA",
+    "subcircuito": "PUENTE LUCIA 1",
+    "id": "ZOOLÓGICO-EL-PANTANAL-Z8-D-P-P",
+    "nombre_punto": "ZOOLÓGICO EL PANTANAL"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "MONTE BELLO",
+    "subcircuito": "MONTE BELLO 3",
+    "id": "ESTACION-METRO-BASTION-Z8-D-P-M",
+    "nombre_punto": "ESTACION METRO BASTION"
   }
 ]
