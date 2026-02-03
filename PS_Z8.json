@@ -22930,5 +22930,23 @@
     "subcircuito": "BASTION POPULAR SUR 3",
     "id": "SERVICIO-TÉCNICO-CELL-PHONE-Z8-D-P-B",
     "nombre_punto": "Servicio Técnico Cell Phone"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "BASTION POPULAR SUR",
+    "subcircuito": "BASTION POPULAR SUR 3",
+    "id": "DISPROMARKET-Z8-D-P-B",
+    "nombre_punto": "DisproMarket"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PUENTE LUCIA",
+    "subcircuito": "PUENTE LUCIA 1",
+    "id": "LAGO-DEL-DAULE-Z8-D-P-P",
+    "nombre_punto": "LAGO DEL DAULE"
   }
 ]
