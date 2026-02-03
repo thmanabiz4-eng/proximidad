@@ -22957,5 +22957,32 @@
     "subcircuito": "PUENTE LUCIA 1",
     "id": "FRITADAS-EL-PUMA-Z8-D-P-P",
     "nombre_punto": "FRITADAS EL PUMA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 5",
+    "id": "ROMERIA-PLAZA-Z8-D-P-O",
+    "nombre_punto": "ROMERIA PLAZA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PUENTE LUCIA",
+    "subcircuito": "PUENTE LUCIA 1",
+    "id": "FERRETERÍA-ACERO-QUITO-Z8-D-P-P",
+    "nombre_punto": "FERRETERÍA ACERO QUITO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 4",
+    "id": "HIDALGO-E-HIDALGO-S.A-Z8-D-P-O",
+    "nombre_punto": "HIDALGO E HIDALGO S.A"
   }
 ]
