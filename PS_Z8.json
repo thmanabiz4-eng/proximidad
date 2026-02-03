@@ -23074,5 +23074,14 @@
     "subcircuito": "BASTION POPULAR SUR 3",
     "id": "FARMAGRO-S.A-Z8-D-P-B",
     "nombre_punto": "Farmagro S.A"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "BASTION POPULAR SUR",
+    "subcircuito": "BASTION POPULAR SUR 1",
+    "id": "TIENDA-VÍVERES-B1-Z8-D-P-B",
+    "nombre_punto": "Tienda Víveres B1"
   }
 ]
