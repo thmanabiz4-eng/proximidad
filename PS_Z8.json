@@ -22822,5 +22822,14 @@
     "subcircuito": "MONTE BELLO 4",
     "id": "HOTEL-LAS-PALMERAS-Z8-D-P-M",
     "nombre_punto": "HOTEL LAS PALMERAS"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "BASTION POPULAR NORTE",
+    "subcircuito": "BASTION POPULAR NORTE 1",
+    "id": "PANADERIA-SUPREMA-Z8-D-P-B",
+    "nombre_punto": "PANADERIA SUPREMA"
   }
 ]
