@@ -23002,5 +23002,23 @@
     "subcircuito": "PUENTE LUCIA 1",
     "id": "PILADORA-CASTRO-Z8-D-P-P",
     "nombre_punto": "PILADORA CASTRO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PUENTE LUCIA",
+    "subcircuito": "PUENTE LUCIA 1",
+    "id": "BANAPOV-Z8-D-P-P",
+    "nombre_punto": "BANAPOV"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 3",
+    "id": "GASOLINERA-PRIMAX-NARCISA-DE-JESUS-Z8-D-P-O",
+    "nombre_punto": "GASOLINERA PRIMAX NARCISA DE JESUS"
   }
 ]
