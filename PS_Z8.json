@@ -22894,5 +22894,32 @@
     "subcircuito": "POSORJA 1",
     "id": "TODOMARKET-ANDRESITO-Z8-D-P-P",
     "nombre_punto": "Todomarket Andresito"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "POSORJA",
+    "subcircuito": "POSORJA 1",
+    "id": "FORTIDEX-S.-A.-Z8-D-P-P",
+    "nombre_punto": "Fortidex S. A."
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "POSORJA",
+    "subcircuito": "POSORJA 1",
+    "id": "MINI-ESCARLETH-Z8-D-P-P",
+    "nombre_punto": "Mini Escarleth"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "SAN FRANCISCO",
+    "subcircuito": "SAN FRANCISCO 2",
+    "id": "IMPROEL-S.A.-Z8-D-P-S",
+    "nombre_punto": "IMPROEL S.A."
   }
 ]
