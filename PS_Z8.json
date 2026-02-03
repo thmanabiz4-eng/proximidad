@@ -22984,5 +22984,23 @@
     "subcircuito": "ORQUIDEAS 4",
     "id": "HIDALGO-E-HIDALGO-S.A-Z8-D-P-O",
     "nombre_punto": "HIDALGO E HIDALGO S.A"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PASCUALES",
+    "subcircuito": "PASCUALES 4",
+    "id": "BALSAFIN-Z8-D-P-P",
+    "nombre_punto": "Balsafin"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PUENTE LUCIA",
+    "subcircuito": "PUENTE LUCIA 1",
+    "id": "PILADORA-CASTRO-Z8-D-P-P",
+    "nombre_punto": "PILADORA CASTRO"
   }
 ]
