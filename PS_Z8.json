@@ -23083,5 +23083,14 @@
     "subcircuito": "BASTION POPULAR SUR 1",
     "id": "TIENDA-VÍVERES-B1-Z8-D-P-B",
     "nombre_punto": "Tienda Víveres B1"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "BASTION POPULAR SUR",
+    "subcircuito": "BASTION POPULAR SUR 1",
+    "id": "LA-SAZÓN-DE-EDY-Z8-D-P-B",
+    "nombre_punto": "La Sazón de Edy"
   }
 ]
