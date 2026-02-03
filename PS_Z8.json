@@ -22849,5 +22849,32 @@
     "subcircuito": "MONTE BELLO 3",
     "id": "ESTACION-METRO-BASTION-Z8-D-P-M",
     "nombre_punto": "ESTACION METRO BASTION"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PUENTE LUCIA",
+    "subcircuito": "PUENTE LUCIA 1",
+    "id": "URBANIZACIÓN-CAPEIRA-Z8-D-P-P",
+    "nombre_punto": "URBANIZACIÓN CAPEIRA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "POSORJA",
+    "subcircuito": "POSORJA 1",
+    "id": "GASOLINERA-TERPEL-Z8-D-P-P",
+    "nombre_punto": "Gasolinera Terpel"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "MONTE BELLO",
+    "subcircuito": "MONTE BELLO 4",
+    "id": "MAHINEXA-Z8-D-P-M",
+    "nombre_punto": "MAHINEXA"
   }
 ]
