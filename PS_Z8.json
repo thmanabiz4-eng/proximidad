@@ -22804,5 +22804,14 @@
     "subcircuito": "PASCUALES 3",
     "id": "FERRETERÍA-AMARILLA-Z8-D-P-P",
     "nombre_punto": "FERRETERÍA AMARILLA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "PASCUALES",
+    "subcircuito": "PASCUALES 3",
+    "id": "TIENDA-VIDRIOS-AZULES-Z8-D-P-P",
+    "nombre_punto": "TIENDA VIDRIOS AZULES"
   }
 ]
