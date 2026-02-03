@@ -23047,5 +23047,23 @@
     "subcircuito": "PUENTE LUCIA 1",
     "id": "INASA-Z8-D-P-P",
     "nombre_punto": "INASA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "BASTION POPULAR SUR",
+    "subcircuito": "BASTION POPULAR SUR 3",
+    "id": "ECORESA-Z8-D-P-B",
+    "nombre_punto": "Ecoresa"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "ORQUIDEAS",
+    "subcircuito": "ORQUIDEAS 3",
+    "id": "CONFITERIA-DISTLOORMA-Z8-D-P-O",
+    "nombre_punto": "CONFITERIA DISTLOORMA"
   }
 ]
