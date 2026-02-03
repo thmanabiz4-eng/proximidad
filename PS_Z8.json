@@ -23101,5 +23101,14 @@
     "subcircuito": "ORQUIDEAS 1",
     "id": "GIMNASIO-THE-NORTH-BOX-Z8-D-P-O",
     "nombre_punto": "GIMNASIO THE NORTH  BOX"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "BASTION POPULAR SUR",
+    "subcircuito": "BASTION POPULAR SUR 1",
+    "id": "LOCAL-COMERCIAL-LA-FAVORITA-Z8-D-P-B",
+    "nombre_punto": "Local Comercial La Favorita"
   }
 ]
