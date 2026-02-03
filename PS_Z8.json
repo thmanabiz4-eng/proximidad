@@ -22813,5 +22813,14 @@
     "subcircuito": "PASCUALES 3",
     "id": "TIENDA-VIDRIOS-AZULES-Z8-D-P-P",
     "nombre_punto": "TIENDA VIDRIOS AZULES"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PASCUALES",
+    "circuito": "MONTE BELLO",
+    "subcircuito": "MONTE BELLO 4",
+    "id": "HOTEL-LAS-PALMERAS-Z8-D-P-M",
+    "nombre_punto": "HOTEL LAS PALMERAS"
   }
 ]
