@@ -22876,5 +22876,23 @@
     "subcircuito": "MONTE BELLO 4",
     "id": "MAHINEXA-Z8-D-P-M",
     "nombre_punto": "MAHINEXA"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "POSORJA",
+    "subcircuito": "POSORJA 1",
+    "id": "FERRETERÍA-AMOR-DE-DIOS-Z8-D-P-P",
+    "nombre_punto": "Ferretería Amor De Dios"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "PROGRESO",
+    "circuito": "POSORJA",
+    "subcircuito": "POSORJA 1",
+    "id": "TODOMARKET-ANDRESITO-Z8-D-P-P",
+    "nombre_punto": "Todomarket Andresito"
   }
 ]
