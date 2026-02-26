@@ -11631,10 +11631,10 @@
     "zona": "ZONA 8",
     "subzona": "DMG",
     "distrito": "DURAN",
-    "circuito": "ABEL GILBERT",
-    "subcircuito": "ABEL GILBERT 1",
+    "circuito": "PANARAMA",
+    "subcircuito": "PANARAMA 1",
     "id": "ZONA 8-DURAN-ABEL GILBERT-GASOLINERA P&S-ABEL GILBERT 1",
-    "nombre_punto": "GASOLINERA P&S"
+    "nombre_punto": "FARMACIA 911"
   },
   {
     "zona": "ZONA 8",
@@ -11730,10 +11730,10 @@
     "zona": "ZONA 8",
     "subzona": "DMG",
     "distrito": "DURAN",
-    "circuito": "RECREO",
-    "subcircuito": "RECREO 5",
+    "circuito": "ARBOLITO",
+    "subcircuito": "ARBOLITO 1",
     "id": "ZONA 8-DURAN-RECREO-TUTI RECREO 5TA ETAPA   -RECREO 5",
-    "nombre_punto": "TUTI RECREO 5TA ETAPA"
+    "nombre_punto": "TIA A LOS TUBOS"
   },
   {
     "zona": "ZONA 8",
