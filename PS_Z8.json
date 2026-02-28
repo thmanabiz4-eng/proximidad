@@ -23119,5 +23119,14 @@
     "subcircuito": "BASTION POPULAR SUR 1",
     "id": "COMERCIAL-GUALLPA-Z8-D-P-B",
     "nombre_punto": "Comercial Guallpa"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "GUASMO",
+    "subcircuito": "GUASMO 1",
+    "id": "PANADERIA-EDUARDITO-GUASMO-1-Z8-D-S-G",
+    "nombre_punto": "PANADERIA EDUARDITO GUASMO 1"
   }
 ]
