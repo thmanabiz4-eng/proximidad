@@ -23128,5 +23128,23 @@
     "subcircuito": "GUASMO 1",
     "id": "PANADERIA-EDUARDITO-GUASMO-1-Z8-D-S-G",
     "nombre_punto": "PANADERIA EDUARDITO GUASMO 1"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "FLOR DE BASTION",
+    "subcircuito": "FLOR DE BASTION 1",
+    "id": "TRANSTEINER-Z8-D-N-F",
+    "nombre_punto": "TRANSTEINER"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "NUEVA PROSPERINA",
+    "circuito": "FLOR DE BASTION",
+    "subcircuito": "FLOR DE BASTION 1",
+    "id": "TRANSTEINER-Z8-D-N-F",
+    "nombre_punto": "TRANSTEINER"
   }
 ]
