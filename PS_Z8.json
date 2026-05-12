@@ -8691,7 +8691,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "ZONA 8-SUR-GUASMO-MINI-GUASMO 3",
-    "nombre_punto": "MINI"
+    "nombre_punto": "MINI - HOSPITAL DEL GUASMO"
   },
   {
     "zona": "ZONA 8",
@@ -8700,7 +8700,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "ZONA 8-SUR-GUASMO-TIA-GUASMO 3",
-    "nombre_punto": "TIA"
+    "nombre_punto": "TIA - HOSPITAL DEL GUASMO"
   },
   {
     "zona": "ZONA 8",
@@ -8709,7 +8709,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "ZONA 8-SUR-GUASMO-TUTI-GUASMO 3",
-    "nombre_punto": "TUTI"
+    "nombre_punto": "TUTI - HOSPITAL DEL GUASMO"
   },
   {
     "zona": "ZONA 8",
@@ -8727,7 +8727,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-TUTI-UNION DE BANANEROS 1",
-    "nombre_punto": "TUTI"
+    "nombre_punto": "TUTI - MONS. ROGELIO BEAUGER"
   },
   {
     "zona": "ZONA 8",
@@ -8736,7 +8736,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-FARMACIA CRUZ AZUL-UNION DE BANANEROS 1",
-    "nombre_punto": "FARMACIA CRUZ AZUL"
+    "nombre_punto": "FARMACIA CRUZ AZUL - MONS. ROGELIO BEAUGER"
   },
   {
     "zona": "ZONA 8",
@@ -8745,7 +8745,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-ALMACENES ARTEFACTA-UNION DE BANANEROS 3",
-    "nombre_punto": "ALMACENES ARTEFACTA"
+    "nombre_punto": "ALMACENES ARTEFACTA - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -8754,7 +8754,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-ALMACENES ESPAÑA-UNION DE BANANEROS 3",
-    "nombre_punto": "ALMACENES ESPAÑA"
+    "nombre_punto": "ALMACENES ESPAÑA - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -8763,7 +8763,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-CRECOS-UNION DE BANANEROS 3",
-    "nombre_punto": "CRECOS"
+    "nombre_punto": "CRECOS - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -8772,7 +8772,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-D BELLAS-UNION DE BANANEROS 3",
-    "nombre_punto": "D BELLAS"
+    "nombre_punto": "D BELLAS - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -8781,7 +8781,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-FARMACIA ECONOMICA-UNION DE BANANEROS 3",
-    "nombre_punto": "FARMACIA ECONOMICA"
+    "nombre_punto": "FARMACIA ECONOMICA - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -12732,7 +12732,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "ZONA 8-SUR-7 LAGOS-FARMACIA SANA SANA, SECTOR CASITAS GUASMO NORTE-7 LAGOS 2",
-    "nombre_punto": "FARMACIA SANA SANA, SECTOR CASITAS GUASMO NORTE"
+    "nombre_punto": "SANA SANA CASITAS DEL GUASMO"
   },
   {
     "zona": "ZONA 8",
@@ -12741,7 +12741,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 3",
     "id": "ZONA 8-SUR-7 LAGOS-FARMACIA SANA SANA COOP LOS LAURELES-7 LAGOS 3",
-    "nombre_punto": "FARMACIA SANA SANA COOP LOS LAURELES"
+    "nombre_punto": "SANA SANA - REDONDA DEL GUASMO"
   },
   {
     "zona": "ZONA 8",
@@ -12750,7 +12750,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "ZONA 8-SUR-7 LAGOS-FARMACIA SANA SANA CDLA. 7 LAGOS-7 LAGOS 4",
-    "nombre_punto": "FARMACIA SANA SANA CDLA. 7 LAGOS"
+    "nombre_punto": "FARMACIA SANA SANA 7 LAGOS"
   },
   {
     "zona": "ZONA 8",
@@ -12759,7 +12759,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "ZONA 8-SUR-FLORESTA-FARMACIA SANA SANA FLORESTA-FLORESTA 2",
-    "nombre_punto": "FARMACIA SANA SANA FLORESTA"
+    "nombre_punto": "FARMACIA SANA SANA - FLORESTA 2"
   },
   {
     "zona": "ZONA 8",
@@ -12768,7 +12768,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "ZONA 8-SUR-FLORESTA-FARMACIA SANA SANA,  COOP. FUNDACIÓN DE GUAYAQUIL-SECTOR LAS ESCLUSAS-FLORESTA 2",
-    "nombre_punto": "FARMACIA SANA SANA,  COOP. FUNDACIÓN DE GUAYAQUIL - SECTOR LAS ESCLUSAS"
+    "nombre_punto": "FARMACIA SANA SANA, COOP. FUNDACIÓN DE GUAYAQUIL - SECTOR LAS ESCLUSAS"
   },
   {
     "zona": "ZONA 8",
@@ -12786,7 +12786,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "ZONA 8-SUR-UNION DE BANANEROS-FARMACIA SANA SANA CARLOS R INFANTE, AV. ABDON CALDERON (EL PEDREGAL)-UNION DE BANANEROS 3",
-    "nombre_punto": "FARMACIA SANA SANA CARLOS R INFANTE, AV. ABDON CALDERON (EL PEDREGAL)"
+    "nombre_punto": "FARMACIA SANA SANA - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -13200,7 +13200,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 1",
     "id": "ZONA 8-SUR-7 LAGOS-FARMACIAS ECONOMICAS, AV. ADOLFO H. SIMMONDS, SECTOR LOS VERGELES-7 LAGOS 1",
-    "nombre_punto": "FARMACIAS ECONOMICAS, AV. ADOLFO H. SIMMONDS, SECTOR LOS VERGELES"
+    "nombre_punto": "FARMACIA ECONOMICA - AV ADOLFO H SIMONDS"
   },
   {
     "zona": "ZONA 8",
@@ -13605,7 +13605,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 1",
     "id": "ZONA 8-SUR-CENTENARIO-OPERADORA PORTUARIA  SEPORGALSA-CENTENARIO 1",
-    "nombre_punto": "OPERADORA PORTUARIA  SEPORGALSA"
+    "nombre_punto": "OPERADORA PORTUARIA SEPORGALSA"
   },
   {
     "zona": "ZONA 8",
@@ -20742,7 +20742,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 1",
     "id": "ZONA 8-SUR-CENTENARIO-ALMACEN DEPRATTY SUR-CENTENARIO 1",
-    "nombre_punto": "ALMACEN DEPRATTY SUR"
+    "nombre_punto": "ALMACENES DEPRATI"
   },
   {
     "zona": "ZONA 8",
@@ -21066,7 +21066,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "FARMACIA-DOCTORCITO-Z8-D-S-F",
-    "nombre_punto": "Farmacia Doctorcito"
+    "nombre_punto": "FARMACIA MI DOCTORCITO"
   },
   {
     "zona": "ZONA 8",
@@ -21075,7 +21075,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "CYBER-Z8-D-S-F",
-    "nombre_punto": "Cyber"
+    "nombre_punto": "CYBER - FLORESTA 2"
   },
   {
     "zona": "ZONA 8",
@@ -21084,7 +21084,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "SERVIENTREGA-Z8-D-S-F",
-    "nombre_punto": "Servientrega"
+    "nombre_punto": "SERVIENTREGA - FLORESTA 2"
   },
   {
     "zona": "ZONA 8",
@@ -21093,7 +21093,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "FARMACIA-CRUZ-AZUL-Z8-D-S-F",
-    "nombre_punto": "Farmacia Cruz Azul"
+    "nombre_punto": "FARMACIA CRUZ AZUL - FLORESTA 2"
   },
   {
     "zona": "ZONA 8",
@@ -21102,7 +21102,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "FARMACIA-BOLIVAR-Z8-D-S-F",
-    "nombre_punto": "Farmacia Bolivar"
+    "nombre_punto": "FARMACIA BOLÍVAR"
   },
   {
     "zona": "ZONA 8",
@@ -21111,7 +21111,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "DESPENSA-REINA-DEL-CISNE-Z8-D-S-F",
-    "nombre_punto": "DESPENSA reina del cisne"
+    "nombre_punto": "DESPENSA REINA DEL CISNE"
   },
   {
     "zona": "ZONA 8",
@@ -21120,7 +21120,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 2",
     "id": "TODO-X-50-Z8-D-S-U",
-    "nombre_punto": "TODO X 50"
+    "nombre_punto": "TODO X 50 - AV RAUL CLEMENTE HUERTA"
   },
   {
     "zona": "ZONA 8",
@@ -21129,7 +21129,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "REPUESTOS-AUTOMOTRICES-ARESUR-Z8-D-S-F",
-    "nombre_punto": "Repuestos Automotrices ARESUR"
+    "nombre_punto": "ARESUR REPUESTOS AUTOMOTORES"
   },
   {
     "zona": "ZONA 8",
@@ -21138,7 +21138,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "VETERINARIA-LAS-ESCLUSAS-Z8-D-S-F",
-    "nombre_punto": "Veterinaria las esclusas"
+    "nombre_punto": "VETERINARIA LAS ESCLUSAS"
   },
   {
     "zona": "ZONA 8",
@@ -21147,7 +21147,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "COMERCIAL-CEVALLOS-AV-RAÚL-CLEMENTE-HUERTA-Z8-D-S-U",
-    "nombre_punto": "Comercial Cevallos  Av Raúl Clemente huerta"
+    "nombre_punto": "COMERCIAL CEVALLOS - AV RAUL CLEMENTE HUERTA"
   },
   {
     "zona": "ZONA 8",
@@ -21156,7 +21156,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "COMERCIAL-PINTURAS-Y-FERRETERIA-Z8-D-S-F",
-    "nombre_punto": "Comercial pinturas y ferreteria"
+    "nombre_punto": "COMERCIAL MARCOS PINTURAS Y FERRETERÌA"
   },
   {
     "zona": "ZONA 8",
@@ -21165,7 +21165,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "FARMACIA-KEYLA-AV-RAÚL-CLEMENTE-HUERTA-Z8-D-S-U",
-    "nombre_punto": "Farmacia Keyla Av Raúl Clemente huerta"
+    "nombre_punto": "FARMACIA KEYLA - AV RAUL CLEMENTE HUERTA"
   },
   {
     "zona": "ZONA 8",
@@ -21183,7 +21183,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "JAHER-(PEDREGAL)-Z8-D-S-U",
-    "nombre_punto": "JAHER (PEDREGAL)"
+    "nombre_punto": "ALMACEN JAHER - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -21192,7 +21192,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "FRITANGUERIA-\"EL-BUEN-SABOR\"-(PEDREGAL)-Z8-D-S-U",
-    "nombre_punto": "FRITANGUERIA \"EL BUEN SABOR\" (PEDREGAL)"
+    "nombre_punto": "FRITANGUERÍA EL BUEN SABOR - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -21201,7 +21201,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 4",
     "id": "DISPENSARIO-DANIEL-COMBONI-Z8-D-S-G",
-    "nombre_punto": "Dispensario Daniel Comboni"
+    "nombre_punto": "DISPENSARIO DANIEL COMBONI"
   },
   {
     "zona": "ZONA 8",
@@ -21210,7 +21210,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 4",
     "id": "TUTI.-STELA-MARIS-Z8-D-S-G",
-    "nombre_punto": "Tuti. Stela Maris"
+    "nombre_punto": "TUTI STELLA MARIS"
   },
   {
     "zona": "ZONA 8",
@@ -21219,7 +21219,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 4",
     "id": "SU-FARMACIAS-STELA-MARIS-1-Z8-D-S-G",
-    "nombre_punto": "Su Farmacias Stela Maris 1"
+    "nombre_punto": "LOCAL SU FARMACIA STELLA MARIS 1"
   },
   {
     "zona": "ZONA 8",
@@ -21228,7 +21228,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 1",
     "id": "BOUTIQUE-LOVELY-Z8-D-S-C",
-    "nombre_punto": "Boutique lovely"
+    "nombre_punto": "LOCAL MODA LOVELY"
   },
   {
     "zona": "ZONA 8",
@@ -21237,7 +21237,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 1",
     "id": "ANDY-ZAMBRANO-Z8-D-S-C",
-    "nombre_punto": "PELUQUERIA ANDY ZAMBRANO"
+    "nombre_punto": "SALON HAIR ANDY ZAMBRANO"
   },
   {
     "zona": "ZONA 8",
@@ -21246,7 +21246,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 1",
     "id": "CABUTOS-MINIMARKET-Z8-D-S-C",
-    "nombre_punto": "CABUTOS MINIMARKET"
+    "nombre_punto": "CABUTOS MARKET"
   },
   {
     "zona": "ZONA 8",
@@ -21255,7 +21255,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 4",
     "id": "ASADERO-EL-MANABA-Z8-D-S-G",
-    "nombre_punto": "Asadero El Manaba"
+    "nombre_punto": "ASADERO EL MANABA - STELLA MARIS"
   },
   {
     "zona": "ZONA 8",
@@ -21264,7 +21264,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "FARMACIA-CRUZ-AZUL-Z8-D-S-C",
-    "nombre_punto": "FARMACIA CRUZ AZUL"
+    "nombre_punto": "FARMACIA CRUZ AZUL DIAGONAL AL DEPRATI"
   },
   {
     "zona": "ZONA 8",
@@ -21273,7 +21273,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 4",
     "id": "SU-FARMACIA-STELA-MARIS-2-Z8-D-S-G",
-    "nombre_punto": "Su Farmacia Stela Maris 2"
+    "nombre_punto": "LOCAL SU FARMACIA STELLA MARIS 2"
   },
   {
     "zona": "ZONA 8",
@@ -21291,7 +21291,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "FARMACIA-FYBECA-Z8-D-S-C",
-    "nombre_punto": "FARMACIA FYBECA"
+    "nombre_punto": "FARMACIA FYBECA DIAGONAL AL DEPRATI"
   },
   {
     "zona": "ZONA 8",
@@ -21300,7 +21300,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "FARMACIA-ECONOMICA-Z8-D-S-C",
-    "nombre_punto": "FARMACIA ECONOMICA"
+    "nombre_punto": "FARMACIA ECONÓMICA DIAGONAL AL DEPRATI"
   },
   {
     "zona": "ZONA 8",
@@ -21309,7 +21309,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "FARMACIA-SANA-SANA-Z8-D-S-C",
-    "nombre_punto": "FARMACIA SANA SANA"
+    "nombre_punto": "FARMACIA SANA SANA DIAGONAL AL DEPRATI"
   },
   {
     "zona": "ZONA 8",
@@ -21318,7 +21318,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "DISTRIBUIDORA-FARMACEUTICA-(MARTIN-AVILES-Y-ABDON-CALDERON)-Z8-D-S-U",
-    "nombre_punto": "DISTRIBUIDORA FARMACEUTICA (MARTIN AVILES Y ABDON CALDERON)"
+    "nombre_punto": "DISTRIBUIDORA FARMACÉUTICA - AV ABDOL CALDERON"
   },
   {
     "zona": "ZONA 8",
@@ -21327,7 +21327,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "MARISQUERIA-EL-SABOR-DE-LA-ISLA-Z8-D-S-C",
-    "nombre_punto": "MARISQUERIA EL SABOR DE LA ISLA"
+    "nombre_punto": "MARISQUERÍA EL SABOR DE LA ISLA"
   },
   {
     "zona": "ZONA 8",
@@ -21336,7 +21336,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "LAVANDERIA-MARTHITA-(MONS-ROGERIO)-Z8-D-S-U",
-    "nombre_punto": "LAVANDERIA MARTHITA (MONS ROGERIO)"
+    "nombre_punto": "LAVANDERÍA MARTHITA - MONS. ROGERIO BREAUGER"
   },
   {
     "zona": "ZONA 8",
@@ -21642,7 +21642,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "TIA-GO-COOP-7-LAGOS-Z8-D-S-7",
-    "nombre_punto": "Tia Go Coop 7 Lagos"
+    "nombre_punto": "TIA GO - CDLA. 7 LAGOS"
   },
   {
     "zona": "ZONA 8",
@@ -21651,7 +21651,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "FARMACIA-BOLIVAR-Z8-D-S-7",
-    "nombre_punto": "Farmacia Bolivar"
+    "nombre_punto": "FARMACIA BOLIVAR"
   },
   {
     "zona": "ZONA 8",
@@ -21669,7 +21669,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "MI-DOCTORCITO-FARMACIA-Z8-D-S-7",
-    "nombre_punto": "Mi Doctorcito Farmacia"
+    "nombre_punto": "FARMACIA MI DOCTORCITO"
   },
   {
     "zona": "ZONA 8",
@@ -21678,7 +21678,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "VETERINARIA-KANINOS-Z8-D-S-7",
-    "nombre_punto": "Veterinaria kaninos"
+    "nombre_punto": "VETERINARIA KNINOS"
   },
   {
     "zona": "ZONA 8",
@@ -21687,7 +21687,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "FRITANGERIA-EL-COLORADO-Z8-D-S-7",
-    "nombre_punto": "Fritangeria El Colorado"
+    "nombre_punto": "FRITANGUERÍA EL COLORADO"
   },
   {
     "zona": "ZONA 8",
@@ -21714,7 +21714,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "MECANICA-ALVERTO-MOTOR-CHEVROLET-Z8-D-S-7",
-    "nombre_punto": "Mecanica Alverto Motor Chevrolet"
+    "nombre_punto": "LOCAL \"ALBERTO MOTOR\""
   },
   {
     "zona": "ZONA 8",
@@ -21723,7 +21723,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "TECNICENTRO-ALEXIS-Z8-D-S-7",
-    "nombre_punto": "Tecnicentro Alexis"
+    "nombre_punto": "LOCAL\"LUBRICENTRO ALEXIS\""
   },
   {
     "zona": "ZONA 8",
@@ -21849,7 +21849,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "TIA-GO-SUBCIRCUITO-CENT3-Z8-D-S-C",
-    "nombre_punto": "TIA GO SUBCIRCUITO CENT3"
+    "nombre_punto": "TIA GO - ATRÀS DEL DEPRATI, CENTENARIO 3"
   },
   {
     "zona": "ZONA 8",
@@ -21921,7 +21921,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "MI-COMISARIATO-DOMINGO-COMIN-ALADO-DE-MC-DONAL-Z8-D-S-C",
-    "nombre_punto": "Mi Comisariato domingo comin alado de MC Donal"
+    "nombre_punto": "COMISARIATO A LADO DEL MC`DONALS"
   },
   {
     "zona": "ZONA 8",
@@ -21930,7 +21930,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "FARMACIA-ALIVIO-AV-DOMINGO-COMIN-BARRIO-CUBA-Z8-D-S-C",
-    "nombre_punto": "Farmacia Alivio av domingo comin barrio cuba"
+    "nombre_punto": "FARMACIA ALIVIO - AV. DOMINGO COMÌN"
   },
   {
     "zona": "ZONA 8",
@@ -21939,7 +21939,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "BROSTER-MICKEY-Z8-D-S-C",
-    "nombre_punto": "Broster Mickey Centenario2"
+    "nombre_punto": "BROSTER MICKEY ATRÁS DE LA U. SALESIANA"
   },
   {
     "zona": "ZONA 8",
@@ -21948,7 +21948,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "POLLOS-A-LA-BRASA-MI-SUB-CENTENARIO2-Z8-D-S-C",
-    "nombre_punto": "POLLOS A LA BRASA MI SUB CENTENARIO2"
+    "nombre_punto": "POLLOS A LA BRAZA \"MI SUB\""
   },
   {
     "zona": "ZONA 8",
@@ -21966,7 +21966,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 5",
     "id": "PANADERÍA-CASACHESEKE-Z8-D-S-C",
-    "nombre_punto": "Panadería Casacheseke"
+    "nombre_punto": "CONFECCIONES MEZA"
   },
   {
     "zona": "ZONA 8",
@@ -21975,7 +21975,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 4",
     "id": "SERVICARNICOS-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
-    "nombre_punto": "Servicarnicos plaza barrio centenario"
+    "nombre_punto": "PANADERÌA CHEESCAKE"
   },
   {
     "zona": "ZONA 8",
@@ -21984,7 +21984,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 4",
     "id": "JAPI-FISH-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
-    "nombre_punto": "Japi Fish Plaza barrio Centenario"
+    "nombre_punto": "SERVICÀRNICOS - DIAGONAL AL B. DEL PACÌFICO"
   },
   {
     "zona": "ZONA 8",
@@ -21993,7 +21993,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 5",
     "id": "PELUQUERÍA-AISA-ESTILO-Z8-D-S-C",
-    "nombre_punto": "Peluquería Aisa Estilo"
+    "nombre_punto": "LOCAL JAPY FISH"
   },
   {
     "zona": "ZONA 8",
@@ -22002,7 +22002,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 4",
     "id": "SANA-SANA-EL-ORO-Z8-D-S-C",
-    "nombre_punto": "Sana sana  el oro"
+    "nombre_punto": "PELUQUERÌA AISA ESTILO"
   },
   {
     "zona": "ZONA 8",
@@ -22011,7 +22011,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 4",
     "id": "TIAGO-CENTENARIO-4-Z8-D-S-C",
-    "nombre_punto": "TiaGo centenario 4"
+    "nombre_punto": "FARMACIA SANA SANA - A LADO DEL B. PACÌFICO"
   },
   {
     "zona": "ZONA 8",
@@ -22020,7 +22020,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "CHIFA-ZHENG-GONG-FU-Z8-D-S-7",
-    "nombre_punto": "Chifa Zheng Gong Fu"
+    "nombre_punto": "CHIFA ZHENG GONF FU"
   },
   {
     "zona": "ZONA 8",
@@ -22029,7 +22029,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "LA-CUCHARA-DE-WILLI-Z8-D-S-7",
-    "nombre_punto": "La cuchara de Willi"
+    "nombre_punto": "RESTAURANTE \"LA CUCHARA DE WILLI\""
   },
   {
     "zona": "ZONA 8",
@@ -22038,7 +22038,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "ALMACENES-JAHER-Z8-D-S-7",
-    "nombre_punto": "ALMACENES JAHER"
+    "nombre_punto": "ALMACENES JAHER - PLAZA AKI"
   },
   {
     "zona": "ZONA 8",
@@ -22047,7 +22047,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "CHIFA-EPOCA-PLAZA-GRAN-AKI-Z8-D-S-7",
-    "nombre_punto": "Chifa Epoca Plaza Gran Aki"
+    "nombre_punto": "LOCAL CHIFA EPOCA - PLAZA AKI"
   },
   {
     "zona": "ZONA 8",
@@ -22056,7 +22056,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "SERVIENTREGA-Z8-D-S-7",
-    "nombre_punto": "Servientrega"
+    "nombre_punto": "SERVIENTREGA - PLAZA AKI"
   },
   {
     "zona": "ZONA 8",
@@ -22065,7 +22065,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "FARMACIA-FYBECA-PLAZA-GRAN-AKI-Z8-D-S-7",
-    "nombre_punto": "Farmacia Fybeca Plaza Gran Aki"
+    "nombre_punto": "FARMACIA FYBECA - PLAZA AKI"
   },
   {
     "zona": "ZONA 8",
@@ -22074,7 +22074,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "SMILE-DENTAL-Z8-D-S-7",
-    "nombre_punto": "SMILE DENTAL"
+    "nombre_punto": "SMILE DENTAL - PLAZA AKI"
   },
   {
     "zona": "ZONA 8",
@@ -22083,7 +22083,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "KFC-Z8-D-S-7",
-    "nombre_punto": "KFC"
+    "nombre_punto": "KFC - PLAZA AKI"
   },
   {
     "zona": "ZONA 8",
@@ -22092,7 +22092,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "FARMACIA-OLANDA-Z8-D-S-7",
-    "nombre_punto": "Farmacia Olanda"
+    "nombre_punto": "FARMACIA FARMAHOLANDA"
   },
   {
     "zona": "ZONA 8",
@@ -22101,7 +22101,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 3",
     "id": "FARMACIA-MI-DOCTORCITO-LOS-TULIPANES-Z8-D-S-7",
-    "nombre_punto": "Farmacia Mi Doctorcito los Tulipanes"
+    "nombre_punto": "TIA \"EL PEDREGAL\""
   },
   {
     "zona": "ZONA 8",
@@ -22110,7 +22110,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 3",
     "id": "FARMACIA-CRUZ-AZUL-LOS-TULIPANES-Z8-D-S-7",
-    "nombre_punto": "Farmacia Cruz Azul Los Tulipanes"
+    "nombre_punto": "FARMACIA CRUZ AZUL TULIPANES"
   },
   {
     "zona": "ZONA 8",
@@ -22119,7 +22119,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "FARMACIA-JAZDE-PARADA-12-Z8-D-S-G",
-    "nombre_punto": "Farmacia Jazde parada 12"
+    "nombre_punto": "FARMACIA JAZDE - PARADA \"12\""
   },
   {
     "zona": "ZONA 8",
@@ -22128,7 +22128,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "RESTAURANTE-NIÑO-ALEJANDRO-PARADA-12-Z8-D-S-G",
-    "nombre_punto": "Restaurante Niño Alejandro parada 12"
+    "nombre_punto": "RESTAURANTE \"NIÑO ALEJANDRO\" - PARADA \"12\""
   },
   {
     "zona": "ZONA 8",
@@ -22137,7 +22137,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "LOCAL-TIA-GO-BANANEROS-1-Z8-D-S-U",
-    "nombre_punto": "Local Tia Go Bananeros 1"
+    "nombre_punto": "LOCAL TIA GO - REINA DEL QUINCHE"
   },
   {
     "zona": "ZONA 8",
@@ -22146,7 +22146,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "FARMACIA-FARMAHOLANDA-PARADA-DE-LA-12-Z8-D-S-G",
-    "nombre_punto": "Farmacia Farmaholanda parada de la 12"
+    "nombre_punto": "FARMACIA FARMAHOLANDA - PARADA \"12\""
   },
   {
     "zona": "ZONA 8",
@@ -22155,7 +22155,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "VETERINARIA-CANINOS-FELICES-Z8-D-S-U",
-    "nombre_punto": "Veterinaria caninos felices parada de 12"
+    "nombre_punto": "LOCAL VETERINARIA CANINOS FELICES"
   },
   {
     "zona": "ZONA 8",
@@ -22173,7 +22173,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "FARMACIA-360-Z8-D-S-U",
-    "nombre_punto": "Farmacia 360"
+    "nombre_punto": "LOCAL FARMACIA 360"
   },
   {
     "zona": "ZONA 8",
@@ -22191,7 +22191,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "FARMACIA-BOLÍVAR-U.BANANERO1-Z8-D-S-U",
-    "nombre_punto": "FARMACIA BOLÍVAR U.BANANERO1"
+    "nombre_punto": "FARMACIA BOLIVAR - AV ABDON CALDERON"
   },
   {
     "zona": "ZONA 8",
@@ -22200,7 +22200,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "LOCAL-AVIFIP-AV-ABDON-CALDERON-Z8-D-S-U",
-    "nombre_punto": "Local Avifip Av Abdon Calderon"
+    "nombre_punto": "LOCAL AVIFIP - AV. ABDON CALDERON"
   },
   {
     "zona": "ZONA 8",
@@ -22209,7 +22209,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "ASADERO-EL-MANABA-JOSTIN-Z8-D-S-U",
-    "nombre_punto": "ASADERO EL MANABA JOSTIN"
+    "nombre_punto": "ASADERO MANABA JOSTIN"
   },
   {
     "zona": "ZONA 8",
@@ -22227,7 +22227,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "TUTI-DE-LA-AV-ABDON-CALDERÓN-Z8-D-S-U",
-    "nombre_punto": "Tuti de la Av Abdon Calderón"
+    "nombre_punto": "TUTI - AV ALDON CALDERÓN"
   },
   {
     "zona": "ZONA 8",
@@ -22236,7 +22236,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "LOCAL-PLÁSTIC-ARCE-AV-ABDON-CALDERON-Z8-D-S-U",
-    "nombre_punto": "Local Plástic Arce Av Abdon Calderon"
+    "nombre_punto": "LOCAL PLÁSTIC ARCE"
   },
   {
     "zona": "ZONA 8",
@@ -22245,7 +22245,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "LOCAL-BROSTER-PIZZA-DE-COLOMBIA-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
-    "nombre_punto": "LOCAL BROSTER PIZZA DE COLOMBIA AV AGDON CALDERON  BANANEROS  3"
+    "nombre_punto": "LOCAL BROSTER PIZZA DE COLOMBIA"
   },
   {
     "zona": "ZONA 8",
@@ -22254,7 +22254,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "FARMACIA-EL-DESCUENTON-U.-BANANERO3-Z8-D-S-U",
-    "nombre_punto": "FARMACIA EL DESCUENTON U. BANANERO3"
+    "nombre_punto": "FARMACIA EL DESCUENTON - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -22272,7 +22272,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "LOCAL-PASTELERIA-WINNY-JOKY-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
-    "nombre_punto": "LOCAL PASTELERIA WINNY JOKY AV AGDON CALDERON BANANEROS 3"
+    "nombre_punto": "LOCAL PANADERÍA WINNIE JOKI"
   },
   {
     "zona": "ZONA 8",
@@ -22281,7 +22281,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "VETERINARIA-DELFICAR-U.BANANERO3-Z8-D-S-U",
-    "nombre_punto": "VETERINARIA DELFICAR U.BANANERO3"
+    "nombre_punto": "VETERINARIA DELFICAR - PEDREGAL"
   },
   {
     "zona": "ZONA 8",
@@ -22290,7 +22290,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "DISTRIBUIDORA-SANGRE-DE-CRISTO-TIENE-PODER-Z8-D-S-U",
-    "nombre_punto": "Distribuidora Sangre de Cristo tiene poder"
+    "nombre_punto": "LOCAL DISTRIBUIDOR LA SANGRE DE CRISTO TIENE PODER"
   },
   {
     "zona": "ZONA 8",
@@ -22308,7 +22308,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "LOCAL-DE-PRODUCTOS-VARIOS-LIMPIEZA-U.BANANERO-Z8-D-S-U",
-    "nombre_punto": "LOCAL DE PRODUCTOS VARIOS LIMPIEZA U.BANANERO"
+    "nombre_punto": "LOCAL PRODUCTOS VARIOS DE LIMPIEZA"
   },
   {
     "zona": "ZONA 8",
@@ -22326,7 +22326,7 @@
     "circuito": "UNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 3",
     "id": "LOCAL-DE-COMIDA-EBENEZER-AV-AGDON-CALDERON-BANANEROS-3-Z8-D-S-U",
-    "nombre_punto": "LOCAL DE COMIDA EBENEZER AV AGDON CALDERON  BANANEROS 3"
+    "nombre_punto": "LOCAL DE COMIDAS EBENEZER - AV ABDON CALDERON"
   },
   {
     "zona": "ZONA 8",
@@ -22344,7 +22344,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 1",
     "id": "FARMACIA-CRUZ-AZUL-FLORESTA-1-Z8-D-S-F",
-    "nombre_punto": "Farmacia Cruz Azul Floresta 1"
+    "nombre_punto": "FARMACIA CRUZ AZUL - FLORESTA 1"
   },
   {
     "zona": "ZONA 8",
@@ -22362,7 +22362,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 1",
     "id": "ÓPTICA-JIREH-VISIÓN-ALADO-DE-TRAJES-ALTAMIRANO-Z8-D-S-F",
-    "nombre_punto": "Óptica Jireh Visión alado de trajes altamirano"
+    "nombre_punto": "LOCAL DE ÓPTICA JIREH VISIÓN"
   },
   {
     "zona": "ZONA 8",
@@ -22380,7 +22380,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 1",
     "id": "TRAJES-ALTAMIRANO-FLORESTA-1-Z8-D-S-F",
-    "nombre_punto": "Trajes Altamirano Floresta 1"
+    "nombre_punto": "TRAJES ALTAMIRANO"
   },
   {
     "zona": "ZONA 8",
@@ -22389,7 +22389,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "LOCAL-SÚPER-BOLON-Z8-D-S-F",
-    "nombre_punto": "Local Súper bolon"
+    "nombre_punto": "LOCAL SÚPER BOLON"
   },
   {
     "zona": "ZONA 8",
@@ -22398,7 +22398,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "MULTI-CYBER-Z8-D-S-F",
-    "nombre_punto": "Multi cyber"
+    "nombre_punto": "MULTI CYBER"
   },
   {
     "zona": "ZONA 8",
@@ -22407,7 +22407,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "TALLER-DE-ZAPATERÍA-Z8-D-S-F",
-    "nombre_punto": "Taller de zapatería"
+    "nombre_punto": "LOCAL TALLER DE ZAPATOS LA BENDICIÓN DE DIOS"
   },
   {
     "zona": "ZONA 8",
@@ -22416,7 +22416,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "FERRETERÍA-CARAGUAY-Z8-D-S-C",
-    "nombre_punto": "Ferretería  Caraguay"
+    "nombre_punto": "FERRETERIA CARAGUAY - ESQUINA FRENTE AL MERCADO CARAGUAY"
   },
   {
     "zona": "ZONA 8",
@@ -22425,7 +22425,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "ASADERO-MANABA-CENT2-CARAGUAY-Z8-D-S-C",
-    "nombre_punto": "ASADERO MANABA CENT2 Caraguay"
+    "nombre_punto": "ASADERO \"MANABA\" FRENTE AL MERCADO CARAGUAY"
   },
   {
     "zona": "ZONA 8",
@@ -22434,7 +22434,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "FARMACIA-BOLIVAR-DISTRIBUIDORA-MERCADO-CARAGUAY-Z8-D-S-C",
-    "nombre_punto": "Farmacia Bolivar Distribuidora mercado caraguay"
+    "nombre_punto": "FARMACIA BOLIVAR - DIAGONAL AL MERCADO CARAGUAY"
   },
   {
     "zona": "ZONA 8",
@@ -22443,7 +22443,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "FARMACIA-COMUNITARIA-Z8-D-S-C",
-    "nombre_punto": "Farmacia comunitaria  caraguay"
+    "nombre_punto": "FARMACIA COMUNITARIA - FRENTE AL MERCADO CARAGUAY"
   },
   {
     "zona": "ZONA 8",
@@ -22452,7 +22452,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "CÁRNICOS-LOS-TOPOS-Z8-D-S-C",
-    "nombre_punto": "Cárnicos Los Topos"
+    "nombre_punto": "COMERCIAL LOS TOPOS VENTA DE CARNE"
   },
   {
     "zona": "ZONA 8",
@@ -22461,7 +22461,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 2",
     "id": "LOCAL-POCHO-Z8-D-S-C",
-    "nombre_punto": "Local Pocho"
+    "nombre_punto": "LOCAL \"LOCHO\" - DIAGONAL AL MERCADO CARAGUAY"
   },
   {
     "zona": "ZONA 8",
@@ -22470,7 +22470,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "0929746337-Z8-D-S-G",
-    "nombre_punto": 929746337
+    "nombre_punto": "LUBRICENTRO SUR"
   },
   {
     "zona": "ZONA 8",
@@ -22479,7 +22479,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 3",
     "id": "POLLO-A-LA-BRASA-GUASMO-3-DIAGONAL-AL-HOSPITAL-Z8-D-S-G",
-    "nombre_punto": "Pollo a la Brasa guasmo 3 diagonal al hospital"
+    "nombre_punto": "RESTURANTE \"POLLO A LA BRAZA BOLITA\""
   },
   {
     "zona": "ZONA 8",
@@ -22506,7 +22506,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "SHAWARMA-UPITO-Z8-D-S-C",
-    "nombre_punto": "SHAWARMA UPITO CENT 3"
+    "nombre_punto": "SHAWARMA UPITO"
   },
   {
     "zona": "ZONA 8",
@@ -22515,7 +22515,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 3",
     "id": "PELUQUERÍA-RUTH-GOROZABEL-7-LAGOS-3-DOMINGO-COMIN-Z8-D-S-7",
-    "nombre_punto": "Peluquería Ruth Gorozabel 7 Lagos 3 Domingo comin"
+    "nombre_punto": "PELUQUERÍA RUTH GOROZABEL"
   },
   {
     "zona": "ZONA 8",
@@ -22524,7 +22524,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "ASADERO-HERMANO-GARCISA-AV-RAUL-CLEMENTE-HUERTA-Z8-D-S-F",
-    "nombre_punto": "Asadero Hermano Garcisa Av Raul CLEMENTE Huerta"
+    "nombre_punto": "ASADERO HERMANOS GARCÍA"
   },
   {
     "zona": "ZONA 8",
@@ -22533,7 +22533,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 2",
     "id": "MI-PEYUCO-GUASMO2-Z8-D-S-G",
-    "nombre_punto": "MI PEYUCO GUASMO2"
+    "nombre_punto": "MI PEYUCO"
   },
   {
     "zona": "ZONA 8",
