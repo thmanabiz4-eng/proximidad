@@ -8484,7 +8484,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 1",
     "id": "ZONA 8-SUR-7 LAGOS-TUTI-7 LAGOS 1",
-    "nombre_punto": "TUTI"
+    "nombre_punto": "TUTI - 7 LAGOS 1"
   },
   {
     "zona": "ZONA 8",
@@ -8502,7 +8502,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 3",
     "id": "ZONA 8-SUR-7 LAGOS-TIA-7 LAGOS 3",
-    "nombre_punto": "TIA"
+    "nombre_punto": "TIA - TULIPANES"
   },
   {
     "zona": "ZONA 8",
@@ -8511,7 +8511,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 3",
     "id": "ZONA 8-SUR-7 LAGOS-TUTI-7 LAGOS 3",
-    "nombre_punto": "TUTI"
+    "nombre_punto": "TUTI - TULIPANES"
   },
   {
     "zona": "ZONA 8",
@@ -8520,7 +8520,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 3",
     "id": "ZONA 8-SUR-7 LAGOS-MINI COMISIARIATO-7 LAGOS 3",
-    "nombre_punto": "MINI COMISIARIATO"
+    "nombre_punto": "MINI COMISARIATO - TULIPANES"
   },
   {
     "zona": "ZONA 8",
@@ -8529,7 +8529,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "ZONA 8-SUR-7 LAGOS-TUTI-7 LAGOS 4",
-    "nombre_punto": "TUTI"
+    "nombre_punto": "TUTI - HERMANO MIGUEL"
   },
   {
     "zona": "ZONA 8",
@@ -8565,7 +8565,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 3",
     "id": "ZONA 8-SUR-CENTENARIO-MINI MARKET MEMO-CENTENARIO 3",
-    "nombre_punto": "MINI MARKET MEMO"
+    "nombre_punto": "MINI MARKET MEMO - DIAGONAL AL B. PICHINCHA"
   },
   {
     "zona": "ZONA 8",
@@ -8583,7 +8583,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 5",
     "id": "ZONA 8-SUR-CENTENARIO-TECNI CENTRO AUTOMERCADO-CENTENARIO 5",
-    "nombre_punto": "TECNI CENTRO AUTOMERCADO"
+    "nombre_punto": "TIENDA CENTRO AUTOMERCADO"
   },
   {
     "zona": "ZONA 8",
@@ -8592,7 +8592,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "ZONA 8-SUR-FLORESTA-TIA-FLORESTA 2",
-    "nombre_punto": "TIA"
+    "nombre_punto": "TIA - FLORESTA 2"
   },
   {
     "zona": "ZONA 8",
@@ -8637,7 +8637,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 1",
     "id": "ZONA 8-SUR-GUASMO-TUTI-GUASMO 1",
-    "nombre_punto": "TUTI"
+    "nombre_punto": "TUTI -  MATERNIDAD DEL GUASMO"
   },
   {
     "zona": "ZONA 8",
@@ -8646,7 +8646,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 2",
     "id": "ZONA 8-SUR-GUASMO-MINI-GUASMO 2",
-    "nombre_punto": "MINI"
+    "nombre_punto": "MINI COMISARIATO - AV ABDON CALDERON"
   },
   {
     "zona": "ZONA 8",
@@ -8655,7 +8655,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 2",
     "id": "ZONA 8-SUR-GUASMO-TIA-GUASMO 2",
-    "nombre_punto": "TIA"
+    "nombre_punto": "TIA - AV ABDON CALDERON"
   },
   {
     "zona": "ZONA 8",
@@ -8664,7 +8664,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 2",
     "id": "ZONA 8-SUR-GUASMO-TUTI-GUASMO 2",
-    "nombre_punto": "TUTI"
+    "nombre_punto": "TUTI - GUASMO 2"
   },
   {
     "zona": "ZONA 8",
