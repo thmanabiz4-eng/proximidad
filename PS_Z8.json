@@ -14361,7 +14361,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 5",
     "id": "ZONA 8-SUR-CENTENARIO-LABRA QUE LABRA-CENTENARIO 5",
-    "nombre_punto": "LABRA QUE LABRA"
+    "nombre_punto": "LOCAL DE EMPANADAS \"LABRA QUE LABRA\""
   },
   {
     "zona": "ZONA 8",
@@ -19284,7 +19284,7 @@
     "circuito": "FLORESTA",
     "subcircuito": "FLORESTA 2",
     "id": "ZONA 8-SUR-FLORESTA-DISTRIBUIDORA  FARMACEUTICA -FLORESTA 2",
-    "nombre_punto": "DISTRIBUIDORA  FARMACEUTICA"
+    "nombre_punto": "DISTRIBUIDORA FARMACEUTICA"
   },
   {
     "zona": "ZONA 8",
@@ -19518,7 +19518,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 4",
     "id": "ZONA 8-SUR-GUASMO-MINI DEL COMISARIO STELA MARI-GUASMO 4",
-    "nombre_punto": "MINI DEL COMISARIO STELA MARI"
+    "nombre_punto": "MINI DEL COMISARIO STELLA MARIS"
   },
   {
     "zona": "ZONA 8",
@@ -19626,7 +19626,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 1",
     "id": "ZONA 8-SUR-CENTENARIO-TIA GO-CENTENARIO 1",
-    "nombre_punto": "TIA GO"
+    "nombre_punto": "TIA GO C-1"
   },
   {
     "zona": "ZONA 8",
@@ -19842,7 +19842,7 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 5",
     "id": "ZONA 8-SUR-CENTENARIO-ALMACEN ESTUARDO SANCHEZ-CENTENARIO 5",
-    "nombre_punto": "ALMACEN ESTUARDO SANCHEZ"
+    "nombre_punto": "ALMACÈN ESTUARDO SÀNCHEZ"
   },
   {
     "zona": "ZONA 8",
@@ -20607,7 +20607,7 @@
     "circuito": "uNION DE BANANEROS",
     "subcircuito": "UNION DE BANANEROS 1",
     "id": "ZONA 8-SUR-uNION DE BANANEROS-TIA GO -UNION DE BANANEROS 1",
-    "nombre_punto": "TIA GO"
+    "nombre_punto": "TIA GO - MONS. ROGELIO BEAUGER"
   },
   {
     "zona": "ZONA 8",
@@ -21642,7 +21642,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 4",
     "id": "TIA-GO-COOP-7-LAGOS-Z8-D-S-7",
-    "nombre_punto": "TIA GO ATRÁS DEL B. PICHINCHA"
+    "nombre_punto": "TIA GO - CDLA. 7 LAGOS"
   },
   {
     "zona": "ZONA 8",
@@ -21669,7 +21669,7 @@
     "circuito": "7 LAGOS",
     "subcircuito": "7 LAGOS 2",
     "id": "MI-DOCTORCITO-FARMACIA-Z8-D-S-7",
-    "nombre_punto": "FARMACIA \"MI DOCTORCITO\""
+    "nombre_punto": "FARMACIA MI DOCTORCITO"
   },
   {
     "zona": "ZONA 8",
@@ -21966,15 +21966,6 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 5",
     "id": "PANADERÍA-CASACHESEKE-Z8-D-S-C",
-    "nombre_punto": "CONFECCIONES MEZA"
-  },
-  {
-    "zona": "ZONA 8",
-    "subzona": "DMG",
-    "distrito": "SUR",
-    "circuito": "CENTENARIO",
-    "subcircuito": "CENTENARIO 4",
-    "id": "SERVICARNICOS-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
     "nombre_punto": "PANADERÌA CHEESCAKE"
   },
   {
@@ -21983,8 +21974,17 @@
     "distrito": "SUR",
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 4",
-    "id": "JAPI-FISH-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
+    "id": "SERVICARNICOS-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
     "nombre_punto": "SERVICÀRNICOS - DIAGONAL AL B. DEL PACÌFICO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 4",
+    "id": "JAPI-FISH-PLAZA-BARRIO-CENTENARIO-Z8-D-S-C",
+    "nombre_punto": "LOCAL JAPY FISH"
   },
   {
     "zona": "ZONA 8",
@@ -21993,15 +21993,6 @@
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 5",
     "id": "PELUQUERÍA-AISA-ESTILO-Z8-D-S-C",
-    "nombre_punto": "LOCAL JAPY FISH"
-  },
-  {
-    "zona": "ZONA 8",
-    "subzona": "DMG",
-    "distrito": "SUR",
-    "circuito": "CENTENARIO",
-    "subcircuito": "CENTENARIO 4",
-    "id": "SANA-SANA-EL-ORO-Z8-D-S-C",
     "nombre_punto": "PELUQUERÌA AISA ESTILO"
   },
   {
@@ -22010,8 +22001,17 @@
     "distrito": "SUR",
     "circuito": "CENTENARIO",
     "subcircuito": "CENTENARIO 4",
-    "id": "TIAGO-CENTENARIO-4-Z8-D-S-C",
+    "id": "SANA-SANA-EL-ORO-Z8-D-S-C",
     "nombre_punto": "FARMACIA SANA SANA - A LADO DEL B. PACÌFICO"
+  },
+  {
+    "zona": "ZONA 8",
+    "subzona": "DMG",
+    "distrito": "SUR",
+    "circuito": "CENTENARIO",
+    "subcircuito": "CENTENARIO 4",
+    "id": "TIAGO-CENTENARIO-4-Z8-D-S-C",
+    "nombre_punto": "TIA GO ATRÁS DEL B. PICHINCHA"
   },
   {
     "zona": "ZONA 8",
@@ -23127,7 +23127,7 @@
     "circuito": "GUASMO",
     "subcircuito": "GUASMO 1",
     "id": "PANADERIA-EDUARDITO-GUASMO-1-Z8-D-S-G",
-    "nombre_punto": "PANADERIA EDUARDITO GUASMO 1"
+    "nombre_punto": "PANADERIA EDUARDITO"
   },
   {
     "zona": "ZONA 8",
